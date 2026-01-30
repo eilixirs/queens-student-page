@@ -1,12 +1,10 @@
 :root {
-  --red:#b90e31; --gold:#fabd0f; --blue:#002452;
+  --primary:#ece6cf; --accent:#ccdbe4; --brown:#8d836f;
 }
-body { font-family: system-ui, sans-serif; margin:0; background:var(--red); color:#fff; }
-header { background:var(--blue); color:#fff; padding:1rem; }
+body { font-family: 'Courier New', Courier, monospace; margin:0; background:var(--primary); color:#fff; }
+header { background:var(--brown); color:#fff; padding:1rem; }
 main { background:#fff; color:#1a1a1a; max-width:900px; margin:2rem auto; border-radius:12px; padding:1.5rem; }
-a { color: var(--blue); }
-/* === personalize below by changing colors or spacing === */
-/* example: make headings blue and a bit larger */
-h2 { color: var(--blue); font-size: 1.6rem; }
-/* example: make your photo round */
-img { border-radius: 12px; }
+a { color: var(--accent); }
+h2 { color: var(--brown); font-size: padding:1.6rem; }
+h1 { color:#fff); font-size: padding:1.6rem; }
+img { border-radius: 6px; }
