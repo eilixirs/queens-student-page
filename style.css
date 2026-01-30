@@ -4,7 +4,7 @@
 body { font-family: 'Courier New', Courier, monospace; margin:0; background:var(--primary); color:#fff; }
 header { background:var(--brown); color:#fff; padding:1rem; }
 main { background:#fff; color:#1a1a1a; max-width:900px; margin:2rem auto; border-radius:12px; padding:1.5rem; }
-a { color: var(--accent); }
+a { color:#7da7d8; }
 h2 { color: var(--brown); font-size: padding:1.6rem; }
 h1 { color:#fff); font-size: padding:1.6rem; }
 img { border-radius: 6px; }
