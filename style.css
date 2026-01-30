@@ -1,5 +1,5 @@
 :root {
-  --primary:#ece6cf; --accent:#ccdbe4; --brown:#8d836f;
+  --primary:#ece6cf; --accent:#87aedc; --brown:#8d836f;
 }
 body { font-family: 'Courier New', Courier, monospace; margin:0; background:var(--primary); color:#fff; }
 header { background:var(--brown); color:#fff; padding:1rem; }
